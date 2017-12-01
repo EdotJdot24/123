@@ -1,0 +1,42 @@
+.img-block{
+	width:75%;
+	margin-left: 50px;
+}
+#banner, #banner img{
+	max-height: 100px;
+	width: 100%;
+	background-image: url('../images/nba1.jpg');
+	background-size: cover;
+	background-repeat: no-repeat;
+	padding: 100px 0 100px 0;
+	margin-bottom: 10px;
+}
+#main-header{
+	background-color: gray;
+	position: fixed;
+	width: 100%;
+	z-index: 50;
+}
+.nav a{
+	margin-top: 5px;
+	color: white;
+}
+.nav a:hover{
+	color: Blue;
+	background: transparent !important;
+}
+#main-header .nav{
+	margin-top: 15pxl
+	float: right;
+}
+#section3{
+	background-color: blue;
+}
+.page-section{
+	padding: 50px 0;
+}
+.input-group label{
+	max-width: 130px;
+	width: 100px;
+	vertical-align: top;
+}
